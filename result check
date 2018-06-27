@@ -1,0 +1,3 @@
+Train Theil: 0.0070 And Train MAPE: 0.6193 And Train MSE: 1424.2326
+Validation Theil: 0.0010 And Validation MAPE: 0.1665 And Validation MSE: 40.5218
+Test Theil: 0.0009 And Test MAPE: 0.1334 And Test MSE: 35.3982
